@@ -303,7 +303,7 @@ nav ul li {
     font-family: "Raleway", sans-serif;
     text-align: left;
     font-size: 600%;
-    
+    margin-left: 20%;
 
 }
 
@@ -354,7 +354,6 @@ nav ul li {
 .foot {
     height: 328px;
     text-align: center;
-
 
 
 }
