@@ -378,5 +378,6 @@ nav ul li {
 }
 
 .options {
-    color: #757575
+    color: #757575;
+    cursor: pointer;
 }
