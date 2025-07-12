@@ -337,7 +337,7 @@ nav ul li {
     display: block;
     margin-top: 30px; 
     width: 270px;
-  
+   border: 0;
 }
 
 .info input ,textarea{
